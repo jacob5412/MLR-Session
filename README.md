@@ -1,2 +1,1 @@
-# MLR-Session
-Multiple Linear Regression Session
+# Multiple Linear Regression Session
